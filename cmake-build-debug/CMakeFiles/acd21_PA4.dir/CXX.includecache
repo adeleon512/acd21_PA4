@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Adam/CLionProjects/acd21_PA4/CashReg.h
+
+C:/Users/Adam/CLionProjects/acd21_PA4/cashRegImp.cpp
+iostream
+-
+CashReg.h
+C:/Users/Adam/CLionProjects/acd21_PA4/CashReg.h
+
+C:/Users/Adam/CLionProjects/acd21_PA4/main.cpp
+iostream
+-
+iomanip
+-
+CashReg.h
+C:/Users/Adam/CLionProjects/acd21_PA4/CashReg.h
+
